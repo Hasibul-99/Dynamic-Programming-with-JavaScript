@@ -10,3 +10,5 @@ Say that you are a traveler on a 2D grid. You begin in the top-left corner and y
 In how many ways can you travel to the goal on a grid with dimensions m * n.
 
 Write a function `gridTraveler(m , n)` that calculates this.
+
+## 3. Bubble sort
