@@ -12,3 +12,10 @@ In how many ways can you travel to the goal on a grid with dimensions m * n.
 Write a function `gridTraveler(m , n)` that calculates this.
 
 ## 3. Bubble sort
+
+## 4. selection sort
+
+## 5. Sum all number in a range
+
+Pass a number of two array. Return the sum of those two numbers plus the sum of the numbers between them. The Lowest number will not always come first.
+
